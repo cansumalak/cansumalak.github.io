@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Cansu E. Dedeoglu"
 title_separator          : "-"
 name                     : &name "Cansu E. Dedeoglu"
-description              : &description "Ph.D student in the Faculty of Information at University of Toronto. TA in ICCIT at U of T" Missisauga. Memeber of Thirdspace Lab at CS Department in U of T.
+description              : &description "Ph.D student in the Faculty of Information at University of Toronto. TA in ICCIT at U of T" Missisauga. Memeber of Thirdspace Lab at CS Department in U of T."
 url                      : https://CansuED.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cansued.github.io"
