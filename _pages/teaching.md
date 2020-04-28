@@ -7,8 +7,7 @@ redirect_from:
   - /TA
 ---
 
-### University of Toronto Mississauga, Institute of Communication, Culture, Information, and
-Technology (ICCIT)
+### University of Toronto Mississauga, Institute of Communication, Culture, Information, and Technology (ICCIT)
 * Contemporary Communication Technologies (CCT109)
 * Information Technology and Globalization (CCT420)
 
