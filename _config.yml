@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Cansu E. Dedeoglu"
 title_separator          : "-"
 name                     : &name "Cansu E. Dedeoglu"
-description              : &description "Ph.D student in the Faculty of Information at University of Toronto. TA in ICCIT at U of T Missisauga. Memeber of Thirdspace Lab at CS Department in U of T."
+description              : &description "Ph.D. student in the Faculty of Information (iSchool) at University of Toronto"
 url                      : https://CansuED.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository.              : "CansuED.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Cansu E. Dedeoglu"
   avatar           : "Cansu.jpeg"
-  bio              : "Ph.D student in the Faculty of Information at University of Toronto. TA in ICCIT at U of T Missisauga. Memeber of Thirdspace Lab at CS Department in U of T."
+  bio              : "Ph.D. student in the Faculty of Information (iSchool) at University of Toronto"
   location         : "Toronto, ON, Canada"
   employer         :
-  pubmed           : ""
+#  pubmed           : ""
   googlescholar    : "https://scholar.google.ca/citations?user=A6MPzHkAAAAJ&hl=en&oi=ao"
-  email            :
+  email            : "cansu.dedeoglu@mail.utoronto.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : ""
+  orcid            : "https://orcid.org/0000-0002-5575-4382"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ""
+  twitter          : "https://twitter.com/CansuEU"
   vine             :
   weibo            :
   xing             :
