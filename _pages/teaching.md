@@ -11,7 +11,7 @@ redirect_from:
 * Contemporary Communication Technologies (CCT109)
 * Information Technology and Globalization (CCT420)
 
-### University of Toronto, Department of Computer Science
+### University of Toronto, Faculty of Information
 * Project Management (INF2040)
 
 ### University of Toronto, Department of Computer Science
