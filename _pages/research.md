@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "Research"
+excerpt: "Research"
+author_profile: true
+redirect_from: 
+  - /research/
+  - /research.html
+---
 My doctoral work draws on the fields of human computer interaction (HCI), computer-
 supported cooperative work (CSCW), knowledge and information management to
 understand how individuals and organizations interact with information and
