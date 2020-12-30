@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Cansu (pronounced as Jan-Sue) 
+I’m a PhD student in the [Faculty of Information](https://ischool.utoronto.ca/) (iSchool) at the University of Toronto where my doctoral research is advised by Dr. Nadia Caidi.
 
-I’m a PhD student in the [Faculty of Information](https://ischool.utoronto.ca/) (iSchool) at the University of Toronto where my doctoral research is advised by Dr. Nadia Caidi. 
+I work as a teaching associate at the Institute of Communication, Culture, Information, and Technology (ICCIT) and also a part of the [Third Space Lab](https://thirdspace.toronto.edu/) directed by Dr. Ishtiaque Ahmed in the Department of Computer Science, the University of Toronto. I am also affiliated with the Centre for Refugee Studies (CRS) and a member of Association for Information Science and Technology(ASIS&T) and Design Research Society (DRS). 
 
-I work as a teaching associate at the [Institute of Communication, Culture, Information, and Technology](https://www.utm.utoronto.ca/iccit/institute-communication-culture-information-and-technology) (ICCIT) and also member of the [Third Space Lab](https://thirdspace.toronto.edu/) directed by Dr. Ishtiaque Ahmed in the Department of Computer Science, the University of Toronto. 
+I held an MA in Media and Communications at [Galatasaray University](https://www.gsu.edu.tr/fr/), and a BA in Political Science at [Bogazici University](http://www.boun.edu.tr/en-US).
 
-I’m as well a member of [Association for Information Science and Technology](https://www.asist.org/)(ASIS&T), [Centre for Refugee Studies](https://crs.info.yorku.ca/) (CRS), and [Design Research Society](https://www.designresearchsociety.org/cpages/home) (DRS). 
+Pronouns: she/her/hers
 
-Before joining the iSchool, I hold an MA in Media and Communications at [Galatasaray University](https://www.gsu.edu.tr/fr/), and a BA in Political Science and International Relations at [Bogazici University](http://www.boun.edu.tr/en-US).
+My first name pronounced as Jan-Sue
 
-In between my degrees, I’ve worked as a professional in health insurance industry and non-profit/civic tech spaces. In my spare time, I enjoy poetry, music, swimming, and sharing good stories over food. I tend to put hummus on everything. 
+
 
 
