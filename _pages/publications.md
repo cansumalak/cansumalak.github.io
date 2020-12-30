@@ -10,7 +10,7 @@ author_profile: true
 
 Dina Sabie, Reem Talhouk, Cansu E. Dedeoglu, Carleen Maitland, Volker Wulf, Eiad Yafi, Samar Sabie, Asam Almohamed, Safa'a AbuJarour, Kahina Le Louvier, Faheem Hussain, Syed Ishtiaque Ahmed. (2021). **Migration and Mobility in HCI: Rethinking Boundaries, Methods, and Impact** 
 
-Shanton Chang, Dana McKay, Nadia Caidi, Antonette Mendoza, Catherine Gomes, Cansu E Dedeoglu. (2020). **From way across the sea: Information overload and international students during the COVID‐19 pandemic**. In Proceedings of the Association for Information Science and Technology. https://doi.org/10.1002/pra2.289 
+Shanton Chang, Dana McKay, Nadia Caidi, Antonette Mendoza, Catherine Gomes, Cansu E Dedeoglu. (2020). **From way across the sea: Information overload and international students during the COVID‐19 pandemic**. In Proceedings of the Association for Information Science and Technology. [https://doi.org/10.1002/pra2.289](https://asistdl.onlinelibrary.wiley.com/doi/10.1002/pra2.289)
 
 Dina Sabie, Samar Sabie, Cansu E. Dedeoglu, Yasaman Rohanifar, Fatma Hashim, Steve Easterbrook, and Syed Ishtiaque Ahmed. (2019). **Exile Within Borders: Understanding the Limits of the Internally Displaced People (IDPs) in Iraq**. In Proceedings of the 2019 Workshop on Computing within Limits (LIMITS'19), Lappeenranta, Finland. [https://doi.org/10.1145/3338103.3338104](https://doi.org/10.1145/3338103.3338104)
 
@@ -21,9 +21,9 @@ Cagdas Dedeoglu, Cansu E. Dedeoglu. (2020). **Information Infrastructures and th
 
 ### News Articles, Public Writing and Essays 
 
-Cansu E. Dedeoglu (2020). **Humanitarian Innovation and AI Ethics: Implications for Refugee Settings** In Ethical Innovation for Artificial Intelligence.[WEB](https://ei4ai.wordpress.com/2020/10/19/humanitarian-innovation-and-ai-ethics-implications-for-refugee-settings-by-cansu-e-dedeoglu-faculty-of-information-university-of-toronto/)
+Cansu E. Dedeoglu (2020). **Humanitarian Innovation and AI Ethics: Implications for Refugee Settings**. In Ethical Innovation for Artificial Intelligence. [WEB](https://ei4ai.wordpress.com/2020/10/19/humanitarian-innovation-and-ai-ethics-implications-for-refugee-settings-by-cansu-e-dedeoglu-faculty-of-information-university-of-toronto/)
 
-Cansu E. Dedeoglu. (2019). **Creative Methods of Dissemination in Forced Migration Research** In ESPMI Network.[WEB](https://espminetwork.com/cansu-e-dedoglu-dissemination-methods/)
+Cansu E. Dedeoglu. (2019). **Creative Methods of Dissemination in Forced Migration Research**. In ESPMI Network. [WEB](https://espminetwork.com/cansu-e-dedoglu-dissemination-methods/)
 
 
 <!---
