@@ -5,19 +5,26 @@ permalink: /publications/
 author_profile: true
 ---
 
-### Journal Articles
 
-[Dedeoglu, Cagdas, Cansu E. Dedeoglu 2020. “Information Infrastructures and the Future of Ecological Citizenship in the Anthropocene.” Soc. Sci. 9, no. 1: 3.](https://doi.org/10.3390/socsci9010003)
+### Peer-reviewed proceedings
 
- 
-### Peer-reviewed Conference Papers
+Dina Sabie, Reem Talhouk, Cansu E. Dedeoglu, Carleen Maitland, Volker Wulf, Eiad Yafi, Samar Sabie, Asam Almohamed, Safa'a AbuJarour, Kahina Le Louvier, Faheem Hussain, Syed Ishtiaque Ahmed. (2021) “Migration and Mobility in HCI: Rethinking Boundaries, Methods, and Impact” 
 
-[Dina Sabie, Samar Sabie, Cansu E. Dedeoglu, Yasaman Rohanifar, Fatma Hashim, Steve Easterbook, and Syed Ishtiaque Ahmed. "Exile Within Borders: Understanding the Limits of the Internally Displaced People (IDPs) in Iraq." In Proceedings of the Fifth ACM Workshop on Computing Within Limits (LIMITS 2019), June 10-11, Lappeenranta, Finland.](https://doi.org/10.1145/3338103.3338104)
+Shanton Chang, Dana McKay, Nadia Caidi, Antonette Mendoza, Catherine Gomes, Cansu E Dedeoglu. (2020). “From way across the sea: Information overload and international students during the COVID‐19 pandemic”. In Proceedings of the Association for Information Science and Technology. https://doi.org/10.1002/pra2.289 
+
+Dina Sabie, Samar Sabie, Cansu E. Dedeoglu, Yasaman Rohanifar, Fatma Hashim, Steve Easterbrook, and Syed Ishtiaque Ahmed. (2019). “Exile Within Borders: Understanding the Limits of the Internally Displaced People (IDPs) in Iraq”. In Proceedings of the 2019 Workshop on Computing within Limits (LIMITS'19), Lappeenranta, Finland. [https://doi.org/10.1145/3338103.3338104](https://doi.org/10.1145/3338103.3338104)
+
+### Journal articles
+
+Cagdas Dedeoglu, Cansu E. Dedeoglu. (2020). “Information Infrastructures and the Future of Ecological Citizenship in the Anthropocene”. Social Sciences. 9(1).  [https://doi.org/10.3390/socsci9010003](https://doi.org/10.3390/socsci9010003) 
 
 
-### Essays and Public Writing
+### News Articles, Public Writing and Essays 
 
-[Dedeoglu, CE. 2019. “Creative Methods of Dissemination in Forced Migration Research”](https://espminetwork.com/cansu-e-dedoglu-dissemination-methods/)
+Cansu E. Dedeoglu (2020). “Humanitarian Innovation and AI Ethics: Implications for Refugee Settings” In Ethical Innovation for Artificial Intelligence. (WEB)
+
+Cansu E. Dedeoglu. (2019). “Creative Methods of Dissemination in Forced Migration Research” In ESPMI Network. (WEB)
+
 
 <!---
  {% if author.googlescholar %}
