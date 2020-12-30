@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Teaching Assistantship at the University of Toronto"
 permalink: /teaching/
 author_profile: true
 redirect_from:
@@ -13,6 +13,7 @@ redirect_from:
 
 ### University of Toronto, Faculty of Information
 * Project Management (INF2040)
+* Communities and Values (INF1322)
 
 ### University of Toronto, Department of Computer Science
 * Computers and Society (CSC300)
