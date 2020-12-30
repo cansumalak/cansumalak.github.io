@@ -27,7 +27,7 @@ redirect_from:
 
 * June 10, 2020 - I became a member of [Canadian Information Science Association/L’Association canadienne des sciences de l’information](https://cais-acsi.ca/fr/). 
 
-* April, 2020 - I joined [Techfugees](https://techfugees.com/techfugees-toronto/) - an impact-driven global organisation empowering displaced people with technology. 
+* April, 2020 - I joined [Techfugees](https://techfugees.com/techfugees-toronto/), an impact-driven global organisation empowering displaced people with technology. 
 
 * 2019-2010 - I was elected as a [SIG Social Media board member](https://www.asist.org/sig/sigsm/) at Association for Information Science and Technology (ASIST). 
 
