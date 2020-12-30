@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Community"
-permalink: /community/
+title: "News"
+permalink: /news/
 author_profile: true
 redirect_from:
   - /service
