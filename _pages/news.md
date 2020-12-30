@@ -7,7 +7,7 @@ redirect_from:
   - /service
 ---
 
-* December, 2020 - Our workshop “Migration and Mobility in HCI: Rethinking Boundaries, Methods, and Impact” got accepted at CHI 2021!
+* December, 2020 - Our workshop **[Migration and Mobility in HCI: Rethinking Boundaries, Methods, and Impact]** (http://www.cs.toronto.edu/~dsabie/MigrationWorkshop/) was accepted at CHI 2021!
 
 * November 18, 2020 - I was an invited speaker at Nature and Climate Talks at Istanbul Policy Center, Sabanci University.
 
