@@ -15,6 +15,7 @@ I work as a teaching associate at the [Institute of Communication, Culture, Info
 I held an MA in Media and Communications at [Galatasaray University](https://www.gsu.edu.tr/fr/), and a BA in Political Science at [Bogazici University](http://www.boun.edu.tr/en-US).
 
 Pronouns: _she/her/hers_
+
 My first name pronounced as _Jan-Sue_
 
 
