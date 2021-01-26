@@ -21,7 +21,9 @@ Cagdas Dedeoglu, Cansu E. Dedeoglu. (2020). **Information Infrastructures and th
 
 ### News Articles, Public Writing and Essays 
 
-Cansu E. Dedeoglu (2020). **Humanitarian Innovation and AI Ethics: Implications for Refugee Settings**. In Ethical Innovation for Artificial Intelligence. [WEB](https://ei4ai.wordpress.com/2020/10/19/humanitarian-innovation-and-ai-ethics-implications-for-refugee-settings-by-cansu-e-dedeoglu-faculty-of-information-university-of-toronto/)
+Negin Dahya, Cansu E. Dedeoglu, Laurie Decarpentrie, Olivier Arvisais. (2021). **In refugee camps, access to internet supports research during the coronavirus pandemic** [WEB](https://theconversation.com/in-refugee-camps-access-to-internet-supports-research-during-the-coronavirus-pandemic-146468)  
+
+Cansu E. Dedeoglu. (2020). **Humanitarian Innovation and AI Ethics: Implications for Refugee Settings**. In Ethical Innovation for Artificial Intelligence. [WEB](https://ei4ai.wordpress.com/2020/10/19/humanitarian-innovation-and-ai-ethics-implications-for-refugee-settings-by-cansu-e-dedeoglu-faculty-of-information-university-of-toronto/)
 
 Cansu E. Dedeoglu. (2019). **Creative Methods of Dissemination in Forced Migration Research**. In ESPMI Network. [WEB](https://espminetwork.com/cansu-e-dedoglu-dissemination-methods/)
 
