@@ -18,7 +18,7 @@ redirect_from:
 
 * October 16, 2020 - I received the SSSP Scholarship Award and became a member of Society for the Study of Social Problems (SSSP) IE Division.
 
-* October 2, 2020 - I co-organize [Critical Computing Seminar](https://www.dgp.toronto.edu/critical-computing-seminar/) at the Third Space Lab, Department of Computer Science, University of Toronto.
+* October 2, 2020 - I co-organize [Critical Computing Seminars](https://www.dgp.toronto.edu/critical-computing-seminar/) at the Third Space Lab, Department of Computer Science, University of Toronto.
 
 * June 10, 2020 - Our project, [Sounds of Solidarity](https://soundsofsolidarity.ca), has been awarded the [University of Toronto COVID-19 Student Engagement Award](https://global.utoronto.ca/u-of-t-covid-19-student-engagement-award-winners/). Thank you UofT for the generous support! 
 
