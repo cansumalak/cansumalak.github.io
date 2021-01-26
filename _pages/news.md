@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   - /service
 ---
+* January 22, 2021 - Our open panel [Digital Data Collection and Migration Studies: Fostering Good Relations Across Time and Space](https://www.4sonline.org/59-digital-data-collection-and-migration-studies-fostering-good-relations-across-time-and-place/) was accepted at 4S Conference!
 
 * December, 2020 - Our workshop [Migration and Mobility in HCI: Rethinking Boundaries, Methods, and Impact](http://www.cs.toronto.edu/~dsabie/MigrationWorkshop/) was accepted at CHI 2021!
 
@@ -16,6 +17,8 @@ redirect_from:
 * October 29, 2020 - I co-organized the panel [From way across the sea: Information overload and international students during the COVID‐19 pandemic](https://www.conftool.org/asist2020/index.php?page=browseSessions&path=adminSessions&form_session=333&form_tracks=3&presentations=show) at the ASIST 2020 Conference. 
 
 * October 16, 2020 - I received the SSSP Scholarship Award and became a member of Society for the Study of Social Problems (SSSP) IE Division.
+
+* October 2, 2020 - I co-organize [Critical Computing Seminar](https://www.dgp.toronto.edu/critical-computing-seminar/) at the Third Space Lab, Department of Computer Science, University of Toronto.
 
 * June 10, 2020 - Our project, [Sounds of Solidarity](https://soundsofsolidarity.ca), has been awarded the [University of Toronto COVID-19 Student Engagement Award](https://global.utoronto.ca/u-of-t-covid-19-student-engagement-award-winners/). Thank you UofT for the generous support! 
 
