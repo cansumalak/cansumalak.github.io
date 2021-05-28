@@ -8,7 +8,7 @@ author_profile: true
 
 ### Peer-reviewed proceedings
 
-Dina Sabie, Reem Talhouk, Cansu E. Dedeoglu, Carleen Maitland, Volker Wulf, Eiad Yafi, Samar Sabie, Asam Almohamed, Safa'a AbuJarour, Kahina Le Louvier, Faheem Hussain, Syed Ishtiaque Ahmed. (2021). *Migration and Mobility in HCI: Rethinking Boundaries, Methods, and Impact*. In CHI EA '21:Extended Abstracts of the 2021 CHI Conference on Human Factors in Computing Systems, May 2021.(https://doi.org/10.1145/3411763.3441352)
+Dina Sabie, Reem Talhouk, Cansu E. Dedeoglu, Carleen Maitland, Volker Wulf, Eiad Yafi, Samar Sabie, Asam Almohamed, Safa'a AbuJarour, Kahina Le Louvier, Faheem Hussain, Syed Ishtiaque Ahmed. (2021). *Migration and Mobility in HCI: Rethinking Boundaries, Methods, and Impact*. In CHI EA '21:Extended Abstracts of the 2021 CHI Conference on Human Factors in Computing Systems, May 2021.[https://doi.org/10.1145/3411763.3441352](https://doi.org/10.1145/3411763.3441352) 
 
 Shanton Chang, Dana McKay, Nadia Caidi, Antonette Mendoza, Catherine Gomes, Cansu E. Dedeoglu. (2020). *From way across the sea: Information overload and international students during the COVID‐19 pandemic*. In Proceedings of the Association for Information Science and Technology. [https://doi.org/10.1002/pra2.289](https://asistdl.onlinelibrary.wiley.com/doi/10.1002/pra2.289)
 
@@ -20,7 +20,7 @@ Cagdas Dedeoglu, Cansu E. Dedeoglu. (2020). *Information Infrastructures and the
 
 ### Position papers
 
-Cansu E. Dedeoglu, Negin Dahya, Laurie Decarpentrie, Olivier Arvisais. (2021).*Time, Temporality and Technology in Remote Participatory Research: Implications for HCI Research in Forced Migration*(http://www.cs.toronto.edu/~dsabie/MigrationWorkshop/Submissions/Dedeoglu_TTT_Remote%20Participatory%20Research_CHI2021Workshop.pd) 
+Cansu E. Dedeoglu, Negin Dahya, Laurie Decarpentrie, Olivier Arvisais. (2021).*Time, Temporality and Technology in Remote Participatory Research: Implications for HCI Research in Forced Migration*.In CHI 2021 Migration and Mobilities workshop (http://www.cs.toronto.edu/~dsabie/MigrationWorkshop/Submissions/Dedeoglu_TTT_Remote%20Participatory%20Research_CHI2021Workshop.pd) 
 
 ### News Articles, Public Writing and Essays 
 
