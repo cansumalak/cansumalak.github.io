@@ -22,6 +22,11 @@ author_profile: true
 
 - Cansu E. Dedeoglu, Negin Dahya, Laurie Decarpentrie, Olivier Arvisais. (2021).*Time, Temporality and Technology in Remote Participatory Research: Implications for HCI Research in Forced Migration*. In CHI 2021 Migration and Mobilities in HCI: Rethinking Boundaries, Methods, and Impact.[link](http://www.cs.toronto.edu/~dsabie/MigrationWorkshop/Submissions/Dedeoglu_TTT_Remote%20Participatory%20Research_CHI2021Workshop.pdf)
 
+### Reports
+
+- Jingzhou (Jo) Liu, Cansu E. Dedeoglu, Marco Campana. *From Silos to Solutions: Toward Sustainable and Equitable Hybrid Service Delivery in the Immigrant & Refugee-Serving Sector in Canada*. [https://www.amssa.org/wp-content/uploads/2021/05/EN-Settlement-Sector-Technology-Task-Group-final-report-and-recommen....pdf](https://www.amssa.org/wp-content/uploads/2021/05/EN-Settlement-Sector-Technology-Task-Group-final-report-and-recommen....pdf)   
+
+
 ### News Articles, Public Writing and Essays 
 
 - Negin Dahya, Cansu E. Dedeoglu, Laurie Decarpentrie, Olivier Arvisais. (2021). *In refugee camps, access to internet supports research during the coronavirus pandemic* [WEB](https://theconversation.com/in-refugee-camps-access-to-internet-supports-research-during-the-coronavirus-pandemic-146468)  
