@@ -6,6 +6,8 @@ author_profile: true
 redirect_from:
   - /service
 ---
+* March 25, 2021 - I co-organized workshop [Reimagining the Futures of Immigrant Settlement Service: Lessons Learned from Digital Service](https://web.cvent.com/event/983ceb70-4b3f-4113-924c-b8209ea72119/websitePage:645d57e4-75eb-4769-b2c0-f201a0bfc6ce) at the 23rd Metropolis 2021 Conference!
+
 * January 22, 2021 - Our open panel [Digital Data Collection and Migration Studies: Fostering Good Relations Across Time and Space](https://www.4sonline.org/59-digital-data-collection-and-migration-studies-fostering-good-relations-across-time-and-place/) was accepted at 4S Conference!
 
 * December, 2020 - Our workshop [Migration and Mobility in HCI: Rethinking Boundaries, Methods, and Impact](http://www.cs.toronto.edu/~dsabie/MigrationWorkshop/) was accepted at CHI 2021!
