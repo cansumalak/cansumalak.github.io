@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Cansu E. Dedeoglu"
+title                    : "Cansu Ekmekcioglu"
 title_separator          : "-"
-name                     : &name "Cansu E. Dedeoglu"
+name                     : &name "Cansu Ekmekcioglu"
 description              : &description "Ph.D. candidate in the Faculty of Information (iSchool) at University of Toronto"
 url                      : https://CansuED.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
