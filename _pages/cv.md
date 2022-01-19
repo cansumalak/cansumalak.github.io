@@ -11,49 +11,77 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+September 2018 – present 
+Yeditepe University - Faculty of Arts and Sciences, Psychology(in English)
+CGPA: 3.92
 
-Work experience
+September 2016 – present 
+Yeditepe University - Faculty of Arts and Sciences, Sociology (in English)
+CGPA: 3.91
+
+
+Honors&Rewards
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+•	Undergraduate Project Grant - 2209-A TUBITAK 
+    Project Name – Eye-tracking effects of Perceived Gaze Direction and Face Mask on Face Perception,	Grant – 4000 TL
+
+•	High Honor Student - Faculty of Arts and Sciences, Sociology - 2021
+
+•	2nd in Sociology Department - 2021
+
+
+Work Experience
+======
+*September, 2020 – present *
+Undergraduate Research Assistant, Computational Neuroscience Visual Perception Lab
+PI: Dr. Funda Yıldırım 
+•	Project 1: Effects of Perceived Gaze Direction and Face Mask on Face Perception
+•	Project 2: Audiovisual Side of Uncanny Valley
+Responsibilities: Collecting data for project 2 and doing my own research project. 
+
+*July, 2020 – January, 2021* 
+Project Assistant, Yeditepe University 
+PI: Dr. Barış Gencer Baykan 
+Project: Project for monitoring gender equality in the media
+Responsibilities: Data collection, analysis.
+
+*June 16, 2019- August 2, 2019*
+Koç University-Summer Research Program 
+PI:Dr. Ayşegül Özsomer Tunalı 
+Project: A closer look at the relationship between brand equity and marketing standardization
+Responsibilities: 55 semi-structured interviews with employees at Ford.
+
+*August 2018 – September 2018* 	
+Ataşehir Municipality, Directorate of Social Aid Affairs
+Responsibilities: Identify families in need of assistance in the region, home visits to approve their requests for help
+
+
+
+Volunteer Experience
+======
+*WORKAWAY-KOREA*
+August 2019 - October 2019/ ESL teacher
+
+*AIESEC Global Volunteering-Ukraine*
+2017-2018 / Supporting social and linguistic skills of the marginalized communities
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+SPSS 
+Psychopy3
+MATLAB 
+Python 
+Eye-tracking
+Arduino 
+
+
+Languages
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Turkey-Native
+English-Advanced  
+Korean-Intermediate (TOPIK 4급 – score: 183)
+German-Beginner
+
