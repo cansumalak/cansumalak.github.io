@@ -178,10 +178,10 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  scientificoutput:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  gallery:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -210,10 +210,10 @@ defaults:
       layout: single
       author_profile: true
 
-  # _publications
+  # _scientificoutput
   - scope:
       path: ""
-      type: publications
+      type: scientificoutput
     values:
       layout: single
       author_profile: true
