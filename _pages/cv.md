@@ -33,7 +33,7 @@ Honors&Rewards
 
 Work Experience
 ======
-*September, 2020 – present *
+*September, 2020 – present*
 Undergraduate Research Assistant, Computational Neuroscience Visual Perception Lab
 PI: Dr. Funda Yıldırım 
 •	Project 1: Effects of Perceived Gaze Direction and Face Mask on Face Perception
@@ -70,18 +70,21 @@ August 2019 - October 2019/ ESL teacher
 Skills
 ======
 
-SPSS 
-Psychopy3
-MATLAB 
-Python 
-Eye-tracking
-Arduino 
+SPSS, 
+Psychopy3,
+MATLAB,
+Python, 
+Eye-tracking,
+Arduino
 
 
 Languages
 ======
 Turkey-Native
+
 English-Advanced  
+
 Korean-Intermediate (TOPIK 4급 – score: 183)
+
 German-Beginner
 
