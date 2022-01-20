@@ -6,7 +6,7 @@ excerpt: "Scientific Output"
 author_profile: true
 redirect_from: 
   - /scientificoutput/
-  - /scientificoutput.html
+  - /scientificoutput.md
 ---
 
 
