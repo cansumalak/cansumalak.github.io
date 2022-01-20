@@ -4,8 +4,9 @@ layout: archive
 title: "Scientific Output"
 permalink: /scientificoutput/
 author_profile: true
+redirect_from:
+  - /service
 ---
-
 
 **Malak**, C. & Yıldırım, F.  Effects of Perceived Gaze Direction and Face Mask on Face Perception. *CogSciDays 2021*, Yeditepe University, Istanbul, September 2, 2021
 
