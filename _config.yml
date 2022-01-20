@@ -160,7 +160,6 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
-
 # Markdown Processing
 kramdown:
   input: GFM
@@ -178,10 +177,10 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  scientificoutput:
+  publications:
     output: true
     permalink: /:collection/:path/
-  gallery:
+  portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -202,7 +201,6 @@ defaults:
       comments: true
       share: true
       related: true
-      
   # _pages
   - scope:
       path: ""
@@ -210,26 +208,42 @@ defaults:
     values:
       layout: single
       author_profile: true
-
-  # _scientificoutput
+  # _teaching
   - scope:
       path: ""
-      type: scientificoutput
+      type: teaching
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-      
-   _gallery
-   - scope:
-       path: ""
-       type: gallery
-     values:
-       layout: single
-       author_profile: true
-       share: true
-       comment: true
+  # _publications
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _talks
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
+
 
 # Sass/SCSS
 sass:
