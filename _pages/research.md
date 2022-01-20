@@ -5,11 +5,9 @@ permalink: /research/
 author_profile: true
 
 ---
-My doctoral work draws on the fields of human computer interaction (HCI), computer- supported cooperative work (CSCW), knowledge and information management to
-understand how individuals and organizations interact with information and sociotechnical systems in low-resource environments, including humanitarian and settlement contexts.
 
-I am also interested in how people individually and collaboratively access to and use of health information. In my mixed-method MA research, I explored the use of Facebook in disseminating and curating critical health information by health non-profit organizations.
+My senior year project focuses on the perceived gaze direction and face masks’ effects on recognition of facial cues of emotion while analyzing eye-tracker data and manipulating gaze direction and facial expressions of photographs. 
 
-As a researcher, I am driven to empower non-dominant, underrepresented, and marginalized communities by designing information and new technologies that have a positive impact in their lives.
+Thanks to different courses that consider the brain with different viewpoints such as physiological, biological, cognitive, clinical, or social psychology, I realized my strong passion for research to explore the brain. Besides this, they also helped me build a solid background to understand the underlying mechanisms of cognitive functions, mind, and brain. Since then, I have been trying to understand how the human mind works and adapt new findings to the field.
 
-I enjoy collaborating with researchers across a variety of disciplines to explore complex interplay between information, technology, and society. I am interested in qualitative and critical and mixed method research methodologies.
+More specifically, I am interested in visual and auditory perception, face perception, emotion recognition, and cognition. 
