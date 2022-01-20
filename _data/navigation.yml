@@ -7,7 +7,7 @@ main:
     url: /scientificoutput/    
 
   - title: "Gallery"
-    url: /gallery/    
+    url: /portfolio/    
     
   - title: "CV"
     url: /cv/
