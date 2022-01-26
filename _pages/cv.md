@@ -50,7 +50,7 @@ Responsibilities: Data collection, analysis.
 Koç University-Summer Research Program 
 PI:Dr. Ayşegül Özsomer Tunalı 
 Project: A closer look at the relationship between brand equity and marketing standardization
-Responsibilities: 55 semi-structured interviews with employees at Ford.
+Responsibilities: Semi-structured interviews with employees at Ford.
 
 *August 2018 – September 2018* 	
 Ataşehir Municipality, Directorate of Social Aid Affairs
@@ -82,7 +82,7 @@ Languages
 ======
 Turkey-Native
 
-English-Advanced  
+English-Advanced (IELTS - 7.5/C1)
 
 Korean-Intermediate (TOPIK 4급 – score: 183)
 
