@@ -31,7 +31,7 @@ Honors&Rewards
 •	2nd in Sociology Department - 2021
 
 
-Work Experience
+Research Experience
 ======
 *September, 2020 – present*
 Undergraduate Research Assistant, Computational Neuroscience Visual Perception Lab
@@ -51,11 +51,6 @@ Koç University-Summer Research Program
 PI:Dr. Ayşegül Özsomer Tunalı 
 Project: A closer look at the relationship between brand equity and marketing standardization
 Responsibilities: Semi-structured interviews with employees at Ford.
-
-*August 2018 – September 2018* 	
-Ataşehir Municipality, Directorate of Social Aid Affairs
-Responsibilities: Identify families in need of assistance in the region, home visits to approve their requests for help
-
 
 
 Volunteer Experience
