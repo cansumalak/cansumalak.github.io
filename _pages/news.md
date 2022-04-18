@@ -9,7 +9,7 @@ redirect_from:
 
 * 2022 
   
-  It was a pleasure to attend Yeditepe University’s [Social Sciences Colloquium/Seminar](https://www.linkedin.com/feed/update/urn:li:activity:6921881281576198144/)lesson to talk about my research on “Effects of Perceived Gaze Direction and Face Mask on Emotion Recognition” and share my insights on the social and psychological dimensions of the COVID-19 pandemic. 
+  It was a pleasure to attend Yeditepe University’s [Social Sciences Colloquium/Seminar](https://www.linkedin.com/feed/update/urn:li:activity:6921881281576198144/) lesson to talk about my research on “Effects of Perceived Gaze Direction and Face Mask on Emotion Recognition” and share my insights on the social and psychological dimensions of the COVID-19 pandemic. 
   
   Our project called “Effects of Perceived Gaze Direction and Face Mask on Emotion Recognition" has been published in the [newspaper](https://www.haberturk.com/maske-kullanimi-bazi-duygularin-anlasilmasina-engel-oluyor-3318458) to inform the public about issues around face masks effect on everyday life!
 
