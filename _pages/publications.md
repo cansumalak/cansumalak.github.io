@@ -5,7 +5,7 @@ permalink: /scientificoutput/
 author_profile: true
 ---
 
-Malak, C., Yildirim, F. (2022) Effects of Perceived Gaze Direction and Face Mask on Emotion Recognition – An Eye-Tracking Study. [Vision Sciences Society.](https://www.visionsciences.org/presentation/?id=4526)
+Malak, C., Yildirim, F. (2022) Effects of Perceived Gaze Direction and Face Mask on Emotion Recognition – An Eye-Tracking Study.[Vision Sciences Society.](https://www.visionsciences.org/presentation/?id=4526)
 
 Yorgancıgil, E., Urgen B.A., Malak C. & Yıldırım, F. (2021) Audio-Visual Components and Cross-Generation Characteristics of Uncanny Valley. 43rd European Conference on Visual Perception-ECVP 2021. [doi:10.1177/03010066211059887](https://journals.sagepub.com/pb-assets/ECVP%202021%2003010066211059887-1641553299747.pdf)
 
