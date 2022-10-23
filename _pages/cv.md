@@ -13,7 +13,7 @@ Education
 ======
 September 2018 – present 
 Yeditepe University - Faculty of Arts and Sciences, Psychology(in English)
-CGPA: 3.92
+CGPA: 3.94
 
 September 2016 – present 
 Yeditepe University - Faculty of Arts and Sciences, Sociology (in English)
@@ -22,6 +22,8 @@ CGPA: 3.91
 
 Honors&Rewards
 ======
+
+•	Global Korean Scholarship for Masters Degree - Korea University - Brain and Cognitive Engineering Department (approximately 80.000$)
 
 •	Undergraduate Project Grant - 2209-A TUBITAK 
     Project Name – Eye-tracking effects of Perceived Gaze Direction and Face Mask on Face Perception,	Grant – 4000 TL
