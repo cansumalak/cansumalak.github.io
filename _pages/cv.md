@@ -11,11 +11,16 @@ redirect_from:
 
 Education
 ======
-September 2018 – present 
+
+September 2022-Present 
+Chungnam National University - Korean Language School 
+(GLOBAL KOREAN SCHOLARSHIP MASTERS DEGREE SCHOLAR)
+
+September 2018 – 2022 
 Yeditepe University - Faculty of Arts and Sciences, Psychology(in English)
 CGPA: 3.94
 
-September 2016 – present 
+September 2016 – 2021 
 Yeditepe University - Faculty of Arts and Sciences, Sociology (in English)
 CGPA: 3.91
 
