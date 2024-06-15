@@ -6,7 +6,7 @@ author_profile: true
 ---
 Journal Publications
 
-Malak, C., & Yildirim, F. (2022, November 16). Masking Emotions: How Does Perceived Gaze Direction Affect Emotion Recognition in Masked Faces? – An Eye-Tracking Study. [https://doi.org/10.31234/osf.io/3fd5h] (https://doi.org/10.31234/osf.io/3fd5h)
+Malak, C., & Yildirim, F. (2022, November 16). Masking Emotions: How Does Perceived Gaze Direction Affect Emotion Recognition in Masked Faces? – An Eye-Tracking Study. https://doi.org/10.31234/osf.io/3fd5h
 
 Conferences & Others
 
