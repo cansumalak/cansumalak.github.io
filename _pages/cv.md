@@ -11,8 +11,10 @@ redirect_from:
 
 Education
 ======
+September 2023 - present 
+Korea University - Brain and Cognitive Engineering
 
-September 2022-Present 
+September 2022 - 2023
 Chungnam National University - Korean Language School 
 (GLOBAL KOREAN SCHOLARSHIP MASTERS DEGREE SCHOLAR)
 
@@ -23,7 +25,6 @@ CGPA: 3.94
 September 2016 – 2021 
 Yeditepe University - Faculty of Arts and Sciences, Sociology (in English)
 CGPA: 3.91
-
 
 Honors&Rewards
 ======
@@ -86,7 +87,7 @@ Turkey-Native
 
 English-Advanced (IELTS - 7.5/C1)
 
-Korean-Intermediate (TOPIK 4급 – score: 183)
+Korean-Intermediate (TOPIK 5급)
 
 German-Beginner
 
