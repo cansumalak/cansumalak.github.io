@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-September 2023 - present 
+September 2023 - Present 
 Korea University - Brain and Cognitive Engineering
 
 September 2022 - 2023
