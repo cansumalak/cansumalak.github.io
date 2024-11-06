@@ -16,16 +16,16 @@ CANSU MALAK
 
 EDUCATION
 ===
-*Korea University, Korea*
-September 2023 – present, Faculty of Engineering, Brain and Cognitive Engineering
-o	PI: Christian Wallraven
+* *Korea University, Korea*
+  * September 2023 – present, Faculty of Engineering, Brain and Cognitive Engineering
+    * PI: Christian Wallraven
 
-*Yeditepe University, Turkey*
-September 2018 – 2022, Faculty of Arts and Sciences, Psychology (in English)
-o	CGPA: 3.94/4
-o	High Honor Student - Faculty of Arts and Sciences, Sociology 
-o	Undergraduate Research Project: Masking Emotions: How Does Perceived Gaze Direction Affect Emotion Recognition in Masked Faces? – An Eye-Tracking Study
-o	PI: Dr. Funda Yıldırım
+* *Yeditepe University, Turkey*
+  * September 2018 – 2022, Faculty of Arts and Sciences, Psychology (in English)
+    *	CGPA: 3.94/4
+    *	High Honor Student - Faculty of Arts and Sciences, Sociology 
+    *	Undergraduate Research Project: Masking Emotions: How Does Perceived Gaze Direction Affect Emotion Recognition in Masked Faces? – An Eye-Tracking Study
+    *	PI: Dr. Funda Yıldırım
 
 September 2016 – 2021, Faculty of Arts and Sciences, Sociology (in English)
 o	CGPA: 3.91/4
