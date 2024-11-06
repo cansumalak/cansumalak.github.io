@@ -9,10 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-September 2024
-===
+
 CANSU MALAK
-==
+===
 
 EDUCATION
 ===
