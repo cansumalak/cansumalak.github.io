@@ -102,4 +102,140 @@ blockquote {
   cite {
     font-style: italic;
 
-    &:before
+    &:before {
+      content: "\2014";
+      padding-right: 5px;
+    }
+  }
+}
+
+/* links */
+
+a {
+  &:focus {
+    @extend %tab-focus;
+  }
+
+  &:hover,
+  &:active {
+    outline: 0;
+  }
+}
+
+/* code */
+
+tt, code, kbd, samp, pre {
+  font-family: $monospace;
+}
+
+pre {
+  overflow-x: auto; /* add scrollbars to wide code blocks*/
+}
+
+p > code,
+a > code,
+li > code,
+figcaption > code,
+td > code {
+  padding-top: 0.1rem;
+  padding-bottom: 0.1rem;
+  font-size: $type-size-6;
+  background: $code-background-color;
+  border: 1px solid $lighter-gray;
+  border-radius: $border-radius;
+  box-shadow: $box-shadow;
+
+  &:before, &:after {
+    letter-spacing: -0.2em;
+    content: "\00a0"; /* non-breaking space*/
+  }
+}
+
+/* horizontal rule */
+
+hr {
+  display: block;
+  margin: 1em 0;
+  border: 0;
+  border-top: 1px solid $border-color;
+}
+
+/* lists */
+
+ul li,
+ol li {
+  margin-bottom: 0.5em;
+}
+
+li ul,
+li ol {
+  margin-top: 0.5em;
+}
+
+/*
+   Navigation lists
+   ========================================================================== */
+
+nav {
+  ul {
+    margin: 0;
+    padding: 0;
+  }
+
+  li {
+    list-style: none;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  /* override white-space for nested lists */
+  ul li,
+  ol li {
+    margin-bottom: 0;
+  }
+
+  li ul,
+  li ol {
+    margin-top: 0;
+  }
+}
+
+/*
+   Hover Effect for Navigation Links
+   ========================================================================== */
+
+nav a {
+  color: $text-color;
+  text-decoration: none;
+}
+
+nav a:hover {
+  text-decoration: none;
+}
+
+/* Each navigation item's hover color */
+nav li:nth-child(1) a:hover {
+  color: #F48FB1; /* Dark Pink */
+}
+
+nav li:nth-child(2) a:hover {
+  color: #FBC3D4; /* Light Pink */
+}
+
+nav li:nth-child(3) a:hover {
+  color: #FDDDE6; /* Lightest Pink */
+}
+
+nav li:nth-child(4) a:hover {
+  color: #E0FFFF; /* Lightest Blue */
+}
+
+nav li:nth-child(5) a:hover {
+  color: #ADD8E6; /* Light Blue */
+}
+
+nav li:nth-child(6) a:hover {
+  color: #87CEEB; /* Blue */
+}
