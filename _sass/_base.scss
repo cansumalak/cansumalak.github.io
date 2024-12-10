@@ -203,6 +203,18 @@ nav {
 }
 
 /*
+.author__bio .location {
+  display: flex;
+  align-items: center;
+  gap: 5px; /* İkon ve metin arasındaki boşluk */
+  color: #666;
+  font-size: 0.9em;
+}
+
+.author__bio .fas.fa-map-marker-alt {
+  color: #888;
+}
+
    Hover Effect for Navigation Links
    ========================================================================== */
 
