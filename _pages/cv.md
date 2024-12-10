@@ -51,7 +51,7 @@ redirect_from:
     <h2>Languages</h2>
     <ul>
       <li>Turkish (Native)</li>
-      <li>English (Advanced, IELTS: 7.5)</li>
+      <li>English (Advanced)</li>
       <li>Korean (Advanced, TOPIK: 5급)</li>
     </ul>
   </section>
