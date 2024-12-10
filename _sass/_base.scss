@@ -313,3 +313,34 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   -webkit-transition: $global-transition;
   transition: $global-transition;
 }
+/* Başlık Renkleri */
+.dark-pink {
+  background-color: #F48FB1; /* Cansu Malak */
+  color: #fff;
+}
+
+.light-pink {
+  background-color: #FBC3D4; /* Research */
+  color: #333;
+}
+
+.lightest-pink {
+  background-color: #FDDDE6; /* Scientific Output */
+  color: #333;
+}
+
+.lightest-blue {
+  background-color: #E0FFFF; /* Gallery */
+  color: #000;
+}
+
+.light-blue {
+  background-color: #ADD8E6; /* CV */
+  color: #000;
+}
+
+.blue {
+  background-color: #87CEEB; /* News */
+  color: #fff;
+}
+
