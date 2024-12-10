@@ -11,10 +11,22 @@ layout: compress
     {% include head/custom.html %}
   </head>
 
-  <body>
+    <body>
 
     {% include browser-upgrade.html %}
     {% include masthead.html %}
+
+    <!-- Navigasyonu buraya ekleyebilirsiniz -->
+    <header>
+      <nav>
+        <a href="/" class="dark-pink">Cansu Malak</a>
+        <a href="/research/" class="light-pink">Research</a>
+        <a href="/scientificoutput/" class="lightest-pink">Scientific Output</a>
+        <a href="/gallery/" class="lightest-blue">Gallery</a>
+        <a href="/cv/" class="light-blue">CV</a>
+        <a href="/news/" class="blue">News</a>
+      </nav>
+    </header>
 
     {{ content }}
 
@@ -26,6 +38,5 @@ layout: compress
     </div>
 
     {% include scripts.html %}
-
   </body>
 </html>
