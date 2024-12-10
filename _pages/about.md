@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently pursuing a Master’s degree in Brain and Cognitive Engineering at Korea University under Professor Christian Wallraven, supported by the Global Korean Scholarship (GKS). 
 
-My research primarily focuses on the cognitive and neural mechanisms underlying facial recognition, emotion perception, and social attention, with a particular focus on how ambiguous or cultural cues influence human perception. I am currently investigating whether Koreans can distinguish between Korean, Chinese, and Japanese faces and compare human performance with machine learning models in fine-grained ethnicity recognition.
+My research primarily focuses on the cognitive and neural mechanisms underlying facial recognition, emotion perception, and social attention, with a particular focus on how ambiguous cues influence human perception. I am currently investigating whether Koreans can distinguish between Korean, Chinese, and Japanese faces and compare human performance with machine learning models in fine-grained ethnicity recognition.
 
 Outside of academia, I enjoy practising taekwondo, hapkido, and yoga and exploring new cultures.
 
