@@ -203,17 +203,17 @@ nav {
 }
 
 /*
-.author__bio .location {
-  display: flex;
-  align-items: center;
-  gap: 5px; /* İkon ve metin arasındaki boşluk */
-  color: #666;
-  font-size: 0.9em;
+/* Konum bilgileri için stil */
+.location {
+  font-style: italic; /* Italik yapar */
+  color: $text-color; /* Ana metin rengiyle uyumlu */
 }
 
-.author__bio .fas.fa-map-marker-alt {
-  color: #888;
+.author__bio {
+  font-weight: normal; /* Bold'u kaldırır */
+  line-height: 1.6; /* Daha okunaklı bir satır aralığı */
 }
+
 
    Hover Effect for Navigation Links
    ========================================================================== */
