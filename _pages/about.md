@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing a Master’s degree in Brain and Cognitive Engineering at Korea University under Professor Christian Wallraven, supported by the Global Korean Scholarship (GKS). 
+I am currently pursuing a Master’s degree in Brain and Cognitive Engineering at Korea University under Professor Christian Wallraven, supported by the Global Korean Scholarship (GKS).  
 
 During my time living in Korea, I often heard people say: “We can tell 100% whether someone is Korean, Japanese, or Chinese just by looking at their face.” Naturally, I had to ask myself: Really?
 
