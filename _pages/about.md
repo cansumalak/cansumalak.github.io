@@ -18,7 +18,7 @@ But it doesn’t stop there. I also investigate how labels like “trustworthy�
 
 Note: I still can’t make these distinctions myself. [Try it out and let me know how you do!](https://alllooksame.com/) 🤷‍♀️
 
-I also have a thing for tracking eyes 👀👀 Using eye-tracking, I’ve studied how mask-wearing and gaze direction influence how we perceive emotions, and how our eyes navigate faces to pick up subtle social cues.
+I also have a thing for tracking eyes 👀👀 Using eye-tracking, I’ve studied how mask-wearing and gaze direction influence how we perceive emotions, and how our eyes navigate faces to pick up subtle social cues. 
 
 [The importance of external features for identifying ethnicity: Testing Korean, Japanese, and Chinese faces in a Korean cultural background](https://www.researchgate.net/publication/386070146_The_importance_of_external_features_for_categorizing_ethnicity_Can_Koreans_identify_Korean_Japanese_and_Chinese_faces?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InByb2ZpbGUiLCJwcmV2aW91c1BhZ2UiOiJwdWJsaWNhdGlvbiJ9fQ)
 
