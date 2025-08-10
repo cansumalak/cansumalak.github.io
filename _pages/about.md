@@ -12,7 +12,7 @@ I am currently pursuing a Master’s degree in Brain and Cognitive Engineering a
 
 During my time living in Korea, I often heard people say: “We can tell 100% whether someone is Korean, Japanese, or Chinese just by looking at their face.” Naturally, I had to ask myself: Really?
 
-In my research, I explore how accurately Koreans can make this fine distinction, which cues they rely on, and whether the secret lies in external features like hair and face shape, or in internal ones like the eyes and nose. I’ve even compared their performance to deep learning models — and, spoiler alert, the machines win (but they use very different facial information to do it).
+In my research, I explore how accurately Koreans can make this fine distinction, which cues they rely on, and whether the secret lies in external features like hair and face shape, or in internal ones like the eyes and nose. I’ve even compared their performance to deep learning models and, spoiler alert, the machines win (but they use very different facial information to do it).
 
 But it doesn’t stop there. I also investigate how labels like “trustworthy” or “attractive” influence these judgments. For example, when a Korean participant finds a Korean face attractive, their chances of guessing correctly go up, but for Chinese faces, the opposite happens, sometimes leading to surprising mistakes.
 
