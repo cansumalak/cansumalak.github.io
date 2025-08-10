@@ -75,14 +75,12 @@ del a {
 }
 
 /* reduce orphans and widows when printing */
-
 p, pre, blockquote, ul, ol, dl, figure, table, fieldset {
   orphans: 3;
   widows: 3;
 }
 
 /* abbreviations */
-
 abbr[title],
 abbr[data-original-title] {
   text-decoration: none;
@@ -91,7 +89,6 @@ abbr[data-original-title] {
 }
 
 /* blockquotes */
-
 blockquote {
   margin: 2em 1em 2em 0;
   padding-left: 1em;
@@ -110,7 +107,6 @@ blockquote {
 }
 
 /* links */
-
 a {
   &:focus {
     @extend %tab-focus;
@@ -123,7 +119,6 @@ a {
 }
 
 /* code */
-
 tt, code, kbd, samp, pre {
   font-family: $monospace;
 }
@@ -152,7 +147,6 @@ td > code {
 }
 
 /* horizontal rule */
-
 hr {
   display: block;
   margin: 1em 0;
@@ -161,7 +155,6 @@ hr {
 }
 
 /* lists */
-
 ul li,
 ol li {
   margin-bottom: 0.5em;
@@ -172,10 +165,8 @@ li ol {
   margin-top: 0.5em;
 }
 
-/*
-   Navigation lists
+/* Navigation lists
    ========================================================================== */
-
 nav {
   ul {
     margin: 0;
@@ -204,7 +195,7 @@ nav {
 
 /* Konum bilgileri için stil */
 .location {
-  font-style: italic; /* Italik yapar */
+  font-style: italic; /* İtalik yapar */
   color: $text-color; /* Ana metin rengiyle uyumlu */
 }
 
@@ -213,10 +204,8 @@ nav {
   line-height: 1.6; /* Daha okunaklı bir satır aralığı */
 }
 
-
-   Hover Effect for Navigation Links
+/* Hover Effect for Navigation Links
    ========================================================================== */
-
 nav a {
   color: $text-color;
   text-decoration: none;
