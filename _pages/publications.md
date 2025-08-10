@@ -11,9 +11,12 @@ author_profile: true
 **Malak, C.**, Wallraven, C. (submitted). Humans versus machines: Distinguishing Korean, Chinese, and Japanese faces via internal and external features. Vision Sciences Society 2025.
 
 ## Journal Publications
-**Malak, C.**, & Yildirim, F. (2022). Masking Emotions: How Does Perceived Gaze Direction Affect Emotion Recognition in Masked Faces? – An Eye-Tracking Study. [https://doi.org/10.31234/osf.io/3fd5h](https://doi.org/10.31234/osf.io/3fd5h)
+Malak, C., & Yildirim, F. (2025). Pupillary responses to masked and gaze-averted faces. Frontiers in Psychology, 16, 1586186. [https://doi.org/10.3389/fpsyg.2025.1586186](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1586186/abstract)
 
 ## Conferences & Others
+
+**Malak, C.,** Wallraven, C. (2025). Humans versus machines: Distinguishing Korean, Chinese, and Japanese faces via internal and external features. Vision Sciences Society 2025. [https://doi.org/10.1167/jov.25.9.2027](https://jov.arvojournals.org/article.aspx?articleid=2810090)
+
 **Malak, C.**, Yildirim, F. (2022). Effects of Perceived Gaze Direction and Face Mask on Emotion Recognition – An Eye-Tracking Study. [Vision Sciences Society](https://www.visionsciences.org/presentation/?id=4526)Undergraduate Just-In Time Sessions.
 
 Yorgancıgil, E., Urgen B.A., **Malak, C.** & Yildirim, F. (2021). Audio-Visual Components and Cross-Generation Characteristics of Uncanny Valley. 43rd European Conference on Visual Perception-ECVP 2021. Perception, 50:104. [doi:10.1177/03010066211059887](https://doi.org/10.1177/03010066211059887)
