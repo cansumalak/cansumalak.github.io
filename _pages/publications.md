@@ -9,7 +9,7 @@ author_profile: true
 **Malak, C.**, Wallraven, C. (submitted, preprint available). The importance of external features for identifying ethnicity: Testing Korean, Japanese, and Chinese faces in a Korean cultural background. [https://doi.org/10.31234/osf.io/gxky7](https://doi.org/10.31234/osf.io/gxky7)
 
 ## Pre-print Available
-**Malak, C.**, Wallraven, C. (preprint available). The importance of external features for identifying ethnicity: Testing Korean, Japanese, and Chinese faces in a Korean cultural background. [https://doi.org/10.31234/osf.io/pq7ny_v1](https://doi.org/10.31234/osf.io/pq7ny_v1)
+**Malak, C.**, Wallraven, C. (preprint available). Attractive Strangers Look Korean: In-group Biases in How Koreans Evaluate and Categorize Korean, Japanese, and Chinese Faces. [https://doi.org/10.31234/osf.io/pq7ny_v1](https://doi.org/10.31234/osf.io/pq7ny_v1)
 
 ## Journal Publications
 **Malak, C.**, & Yildirim, F. (2025). Pupillary responses to masked and gaze-averted faces. Frontiers in Psychology, 16, 1586186. [https://doi.org/10.3389/fpsyg.2025.1586186](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1586186/abstract)
