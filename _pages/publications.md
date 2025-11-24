@@ -8,7 +8,7 @@ author_profile: true
 ## Submitted
 **Malak, C.**, Wallraven, C. (submitted, preprint available). The importance of external features for identifying ethnicity: Testing Korean, Japanese, and Chinese faces in a Korean cultural background. [https://doi.org/10.31234/osf.io/gxky7](https://doi.org/10.31234/osf.io/gxky7)
 
-## Pre=print Available
+## Pre-print Available
 **Malak, C.**, Wallraven, C. (preprint available). The importance of external features for identifying ethnicity: Testing Korean, Japanese, and Chinese faces in a Korean cultural background. [https://doi.org/10.31234/osf.io/pq7ny_v1](https://doi.org/10.31234/osf.io/pq7ny_v1)
 
 ## Journal Publications
