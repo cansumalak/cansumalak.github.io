@@ -12,7 +12,7 @@ redirect_from:
 
   I presented our work *Humans versus machines: Distinguishing Korean, Chinese, and Japanese faces via internal and external features* at the Vision Sciences Society (VSS) 2025.  
 
-  I presented our study on the importance of external facial features in fine-grained ethnicity categorization at the Korean Cognitive and Biological Psychology Society Conference 2025. Believe it or not, in Korean! e  
+  I presented our study on the importance of external facial features in fine-grained ethnicity categorization at the Korean Cognitive and Biological Psychology Society Conference 2025. Surprisingly, entirely in Korean.
 
   I obtained TOPIK Level 6, the highest level of Korean language proficiency.  
 
