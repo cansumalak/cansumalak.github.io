@@ -100,3 +100,98 @@ Across a series of studies, I investigate this question from multiple complement
 
 </div>
 
+<style>
+.cm-accordion { max-width: 900px; }
+
+/* card layout */
+.cm-accordion details.cm-item {
+  border: 1px solid #e3e3e3;
+  border-radius: 12px;
+  margin: 14px 0;
+  overflow: hidden;
+  background: #fff;
+}
+
+/* header */
+.cm-accordion details.cm-item > summary.cm-header {
+  list-style: none;
+  cursor: pointer;
+  padding: 16px;
+  background: #f7f7f7;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  font-size: 1.05rem;
+  font-weight: 650;
+  border-radius: 12px;
+}
+
+.cm-accordion summary::-webkit-details-marker { display: none; }
+.cm-accordion summary::marker { content: ""; }
+
+.cm-accordion details.cm-item > summary.cm-header::after {
+  content: "▾";
+  opacity: 0.6;
+  margin-left: 10px;
+}
+
+.cm-accordion details.cm-item[open] > summary.cm-header::after {
+  content: "▴";
+}
+
+.cm-accordion details.cm-item > summary.cm-header:hover {
+  background: #efefef;
+}
+
+/* tag */
+.cm-tag {
+  font-size: 0.85rem;
+  font-weight: 600;
+  padding: 6px 10px;
+  border-radius: 999px;
+  background: #ffffff;
+  border: 1px solid #e6e6e6;
+  white-space: nowrap;
+}
+
+/* body */
+.cm-body {
+  padding: 14px 16px 16px 16px;
+  line-height: 1.6;
+}
+
+.cm-meta { margin-top: 10px; opacity: 0.9; }
+.cm-links a { font-weight: 600; }
+
+/* ===== Project color themes ===== */
+.project-pink   { border-left: 6px solid #e87aa4; }
+.project-lpink  { border-left: 6px solid #f2a6c1; }
+.project-lblue  { border-left: 6px solid #9ecae1; }
+.project-blue   { border-left: 6px solid #6baed6; }
+.project-purple { border-left: 6px solid #b39ddb; }
+
+.project-pink[open]   summary { background: #fdeaf1; }
+.project-lpink[open]  summary { background: #fff0f6; }
+.project-lblue[open]  summary { background: #eef6fb; }
+.project-blue[open]   summary { background: #e8f2fa; }
+.project-purple[open] summary { background: #f3eefc; }
+</style>
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const projectColors = [
+    "project-pink",
+    "project-lpink",
+    "project-lblue",
+    "project-blue",
+    "project-purple"
+  ];
+
+  document
+    .querySelectorAll(".cm-accordion details.cm-item")
+    .forEach((project, index) => {
+      project.classList.add(projectColors[index % projectColors.length]);
+    });
+});
+</script>
