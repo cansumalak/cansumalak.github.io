@@ -104,7 +104,7 @@ Across a series of studies, I investigate this question from multiple complement
 <style>
 .cm-accordion { max-width: 900px; }
 
-/* card layout */
+/* Card base */
 .cm-accordion details.cm-item {
   border: 1px solid #e3e3e3;
   border-left-width: 6px;
@@ -112,9 +112,16 @@ Across a series of studies, I investigate this question from multiple complement
   margin: 14px 0;
   overflow: hidden;
   background: #fff;
+  transition: transform 140ms ease, box-shadow 140ms ease;
 }
 
-/* header */
+/* Lift on hover */
+.cm-accordion details.cm-item:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 18px rgba(0,0,0,0.06);
+}
+
+/* Header */
 .cm-accordion details.cm-item > summary.cm-header {
   list-style: none;
   cursor: pointer;
@@ -142,11 +149,7 @@ Across a series of studies, I investigate this question from multiple complement
   content: "▴";
 }
 
-.cm-accordion details.cm-item > summary.cm-header:hover {
-  background: #efefef;
-}
-
-/* tag */
+/* Tag pill */
 .cm-tag {
   font-size: 0.85rem;
   font-weight: 600;
@@ -157,7 +160,7 @@ Across a series of studies, I investigate this question from multiple complement
   white-space: nowrap;
 }
 
-/* body */
+/* Body */
 .cm-body {
   padding: 14px 16px 16px 16px;
   line-height: 1.6;
@@ -166,16 +169,24 @@ Across a series of studies, I investigate this question from multiple complement
 .cm-meta { margin-top: 10px; opacity: 0.9; }
 .cm-links a { font-weight: 600; }
 
-/* ===== Project color themes ===== */
+/* === Color themes === */
 .project-pink   { border-left-color: #e87aa4 !important; }
 .project-lpink  { border-left-color: #f2a6c1 !important; }
 .project-lblue  { border-left-color: #9ecae1 !important; }
 .project-blue   { border-left-color: #6baed6 !important; }
 .project-purple { border-left-color: #b39ddb !important; }
 
-.project-pink[open]   summary { background: #fdeaf1 !important; }
-.project-lpink[open]  summary { background: #fff0f6 !important; }
-.project-lblue[open]  summary { background: #eef6fb !important; }
-.project-blue[open]   summary { background: #e8f2fa !important; }
-.project-purple[open] summary { background: #f3eefc !important; }
+/* Hover color */
+.project-pink:hover   > summary { background: #fdeaf1 !important; }
+.project-lpink:hover  > summary { background: #fff0f6 !important; }
+.project-lblue:hover  > summary { background: #eef6fb !important; }
+.project-blue:hover   > summary { background: #e8f2fa !important; }
+.project-purple:hover > summary { background: #f3eefc !important; }
+
+/* Open state color */
+.project-pink[open]   > summary { background: #fdeaf1 !important; }
+.project-lpink[open]  > summary { background: #fff0f6 !important; }
+.project-lblue[open]  > summary { background: #eef6fb !important; }
+.project-blue[open]   > summary { background: #e8f2fa !important; }
+.project-purple[open] > summary { background: #f3eefc !important; }
 </style>
