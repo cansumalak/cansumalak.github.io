@@ -14,6 +14,7 @@ Across a series of studies, I investigate this question from multiple complement
 ---
 
 
+
 ## Projects
 
 <div class="cm-accordion">
@@ -101,7 +102,7 @@ Across a series of studies, I investigate this question from multiple complement
 <style>
 .cm-accordion { max-width: 900px; }
 
-/* Card */
+/* CARD */
 .cm-accordion details.cm-item {
   border: 1px solid #e3e3e3;
   border-left-width: 6px;
@@ -116,11 +117,20 @@ Across a series of studies, I investigate this question from multiple complement
   box-shadow: 0 6px 18px rgba(0,0,0,0.06);
 }
 
-/* Header — GRID FIX (tag hizalama) */
+/* HEADER — GRID (NO DOUBLE ARROW) */
+.cm-accordion details > summary {
+  list-style: none !important;
+}
+.cm-accordion details > summary::-webkit-details-marker {
+  display: none !important;
+}
+.cm-accordion details > summary::marker {
+  content: "" !important;
+}
+
 .cm-accordion details.cm-item > summary.cm-header {
-  list-style: none;
   cursor: pointer;
-  padding: 16px;
+  padding: 14px 16px;
   background: #f7f7f7;
 
   display: grid;
@@ -133,9 +143,7 @@ Across a series of studies, I investigate this question from multiple complement
   border-radius: 12px;
 }
 
-.cm-accordion summary::-webkit-details-marker { display: none; }
-.cm-accordion summary::marker { content: ""; }
-
+/* Custom arrow */
 .cm-accordion details.cm-item > summary.cm-header::after {
   content: "▾";
   opacity: 0.6;
@@ -146,10 +154,9 @@ Across a series of studies, I investigate this question from multiple complement
   content: "▴";
 }
 
-/* Tag */
+/* TAG */
 .cm-tag {
   justify-self: end;
-  align-self: center;
   font-size: 0.85rem;
   font-weight: 600;
   padding: 6px 10px;
@@ -159,7 +166,7 @@ Across a series of studies, I investigate this question from multiple complement
   white-space: nowrap;
 }
 
-/* Body */
+/* BODY */
 .cm-body {
   padding: 14px 16px 16px;
   line-height: 1.6;
@@ -168,24 +175,24 @@ Across a series of studies, I investigate this question from multiple complement
 .cm-meta { margin-top: 10px; opacity: 0.9; }
 .cm-links a { font-weight: 600; }
 
-/* Color themes */
-.project-pink   { border-left-color: #e87aa4 !important; }
-.project-lpink  { border-left-color: #f2a6c1 !important; }
-.project-lblue  { border-left-color: #9ecae1 !important; }
-.project-blue   { border-left-color: #6baed6 !important; }
-.project-purple { border-left-color: #b39ddb !important; }
+/* COLORS */
+.project-pink   { border-left-color: #e87aa4; }
+.project-lpink  { border-left-color: #f2a6c1; }
+.project-lblue  { border-left-color: #9ecae1; }
+.project-blue   { border-left-color: #6baed6; }
+.project-purple { border-left-color: #b39ddb; }
 
-/* Hover */
-.project-pink:hover   > summary { background: #fdeaf1 !important; }
-.project-lpink:hover  > summary { background: #fff0f6 !important; }
-.project-lblue:hover  > summary { background: #eef6fb !important; }
-.project-blue:hover   > summary { background: #e8f2fa !important; }
-.project-purple:hover > summary { background: #f3eefc !important; }
+/* HOVER */
+.project-pink:hover   > summary { background: #fdeaf1; }
+.project-lpink:hover  > summary { background: #fff0f6; }
+.project-lblue:hover  > summary { background: #eef6fb; }
+.project-blue:hover   > summary { background: #e8f2fa; }
+.project-purple:hover > summary { background: #f3eefc; }
 
-/* Open */
-.project-pink[open]   > summary { background: #fdeaf1 !important; }
-.project-lpink[open]  > summary { background: #fff0f6 !important; }
-.project-lblue[open]  > summary { background: #eef6fb !important; }
-.project-blue[open]   > summary { background: #e8f2fa !important; }
-.project-purple[open] > summary { background: #f3eefc !important; }
+/* OPEN */
+.project-pink[open]   > summary { background: #fdeaf1; }
+.project-lpink[open]  > summary { background: #fff0f6; }
+.project-lblue[open]  > summary { background: #eef6fb; }
+.project-blue[open]   > summary { background: #e8f2fa; }
+.project-purple[open] > summary { background: #f3eefc; }
 </style>
