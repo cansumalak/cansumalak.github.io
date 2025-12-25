@@ -13,6 +13,7 @@ Across a series of studies, I investigate this question from multiple complement
 
 ---
 
+
 ## Projects
 
 <div class="cm-accordion">
@@ -26,8 +27,7 @@ Across a series of studies, I investigate this question from multiple complement
       <p>
         How do Korean observers use <strong>internal</strong> (eyes, nose) versus
         <strong>external</strong> (hair, face outline) facial cues when categorizing
-        Korean, Japanese, and Chinese faces? This project examines feature reliance
-        and contextual effects on accuracy and confidence.
+        Korean, Japanese, and Chinese faces?
       </p>
       <p class="cm-meta"><strong>Methods:</strong> 3AFC categorization · stimulus manipulations · confidence measures</p>
       <p class="cm-links">
@@ -44,10 +44,9 @@ Across a series of studies, I investigate this question from multiple complement
     <div class="cm-body">
       <p>
         A follow-up study comparing human categorization patterns with deep learning models,
-        asking whether humans and machines rely on the same facial information—and where
-        their error profiles diverge.
+        asking where humans and machines converge—and where their error profiles diverge.
       </p>
-      <p class="cm-meta"><strong>Methods:</strong> face embeddings · supervised classifiers · cross-validation · error analysis</p>
+      <p class="cm-meta"><strong>Methods:</strong> face embeddings · supervised classifiers · cross-validation</p>
     </div>
   </details>
 
@@ -58,12 +57,11 @@ Across a series of studies, I investigate this question from multiple complement
     </summary>
     <div class="cm-body">
       <p>
-        Investigates how rapid social trait impressions, such as
-        <strong>attractiveness</strong> and <strong>trustworthiness</strong>,
-        bias fine-grained ethnicity categorization decisions, including asymmetric
-        in-group effects.
+        Examines how rapid social trait impressions such as <strong>attractiveness</strong>
+        and <strong>trustworthiness</strong> bias fine-grained ethnicity categorization,
+        including asymmetric in-group effects.
       </p>
-      <p class="cm-meta"><strong>Methods:</strong> trait ratings · mixed-effects / correlational analyses · bias–accuracy links</p>
+      <p class="cm-meta"><strong>Methods:</strong> trait ratings · mixed-effects analyses</p>
     </div>
   </details>
 
@@ -74,11 +72,10 @@ Across a series of studies, I investigate this question from multiple complement
     </summary>
     <div class="cm-body">
       <p>
-        Examines how gaze direction and face masks shape emotion recognition and visual
-        attention to diagnostic facial regions, providing insight into social vision
-        under occlusion.
+        Investigates how gaze direction and face masks shape emotion recognition and
+        visual attention to diagnostic facial regions.
       </p>
-      <p class="cm-meta"><strong>Methods:</strong> eye-tracking · emotion recognition · ROI-based attention analyses</p>
+      <p class="cm-meta"><strong>Methods:</strong> eye-tracking · emotion recognition · ROI analyses</p>
       <p class="cm-links">
         <a href="https://osf.io/3fd5h/" target="_blank" rel="noopener">Project / OSF</a>
       </p>
@@ -93,9 +90,9 @@ Across a series of studies, I investigate this question from multiple complement
     <div class="cm-body">
       <p>
         Explores how naturality in audio–visual signals influences human–robot interaction
-        and the perception of the uncanny valley across generations.
+        and the perception of the uncanny valley.
       </p>
-      <p class="cm-meta"><strong>Methods:</strong> multisensory stimuli · behavioral judgments · individual differences</p>
+      <p class="cm-meta"><strong>Methods:</strong> multisensory stimuli · behavioral judgments</p>
     </div>
   </details>
 
@@ -104,33 +101,33 @@ Across a series of studies, I investigate this question from multiple complement
 <style>
 .cm-accordion { max-width: 900px; }
 
-/* Card base */
+/* Card */
 .cm-accordion details.cm-item {
   border: 1px solid #e3e3e3;
   border-left-width: 6px;
   border-radius: 12px;
   margin: 14px 0;
-  overflow: hidden;
   background: #fff;
   transition: transform 140ms ease, box-shadow 140ms ease;
 }
 
-/* Lift on hover */
 .cm-accordion details.cm-item:hover {
   transform: translateY(-2px);
   box-shadow: 0 6px 18px rgba(0,0,0,0.06);
 }
 
-/* Header */
+/* Header — GRID FIX (tag hizalama) */
 .cm-accordion details.cm-item > summary.cm-header {
   list-style: none;
   cursor: pointer;
   padding: 16px;
   background: #f7f7f7;
-  display: flex;
+
+  display: grid;
+  grid-template-columns: 1fr auto;
   align-items: center;
-  justify-content: space-between;
-  gap: 12px;
+  column-gap: 12px;
+
   font-size: 1.05rem;
   font-weight: 650;
   border-radius: 12px;
@@ -149,8 +146,10 @@ Across a series of studies, I investigate this question from multiple complement
   content: "▴";
 }
 
-/* Tag pill */
+/* Tag */
 .cm-tag {
+  justify-self: end;
+  align-self: center;
   font-size: 0.85rem;
   font-weight: 600;
   padding: 6px 10px;
@@ -162,28 +161,28 @@ Across a series of studies, I investigate this question from multiple complement
 
 /* Body */
 .cm-body {
-  padding: 14px 16px 16px 16px;
+  padding: 14px 16px 16px;
   line-height: 1.6;
 }
 
 .cm-meta { margin-top: 10px; opacity: 0.9; }
 .cm-links a { font-weight: 600; }
 
-/* === Color themes === */
+/* Color themes */
 .project-pink   { border-left-color: #e87aa4 !important; }
 .project-lpink  { border-left-color: #f2a6c1 !important; }
 .project-lblue  { border-left-color: #9ecae1 !important; }
 .project-blue   { border-left-color: #6baed6 !important; }
 .project-purple { border-left-color: #b39ddb !important; }
 
-/* Hover color */
+/* Hover */
 .project-pink:hover   > summary { background: #fdeaf1 !important; }
 .project-lpink:hover  > summary { background: #fff0f6 !important; }
 .project-lblue:hover  > summary { background: #eef6fb !important; }
 .project-blue:hover   > summary { background: #e8f2fa !important; }
 .project-purple:hover > summary { background: #f3eefc !important; }
 
-/* Open state color */
+/* Open */
 .project-pink[open]   > summary { background: #fdeaf1 !important; }
 .project-lpink[open]  > summary { background: #fff0f6 !important; }
 .project-lblue[open]  > summary { background: #eef6fb !important; }
