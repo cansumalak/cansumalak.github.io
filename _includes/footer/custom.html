@@ -1,3 +1,24 @@
 <!-- start custom footer snippets -->
 <a href="/sitemap/">Sitemap</a>
 <!-- end custom footer snippets -->
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+
+  const projectColors = [
+    "project-pink",
+    "project-lpink",
+    "project-lblue",
+    "project-blue",
+    "project-purple"
+  ];
+
+  const projects = document.querySelectorAll(
+    ".cm-accordion details.cm-item"
+  );
+
+  projects.forEach((project, index) => {
+    project.classList.add(projectColors[index % projectColors.length]);
+  });
+
+});
+</script>
