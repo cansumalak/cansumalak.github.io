@@ -12,11 +12,12 @@ Currently, I am working under the guidance of [Professor Christian Wallraven](ht
 Across a series of studies, I investigate this question from multiple complementary angles: how observers rely on different facial cues (internal features, external features, or their combination), how social trait impressions such as attractiveness and trustworthiness bias categorization decisions, and how human performance compares to that of machine learning models trained on the same task. Together, these projects aim to characterize the perceptual and social factors shaping fine-grained face categorization, and to clarify where human and artificial systems converge or diverge in solving this problem.
 
 ---
-## Projects 
+
+## Projects
 
 <div class="cm-accordion">
 
-  <details class="cm-item">
+  <details class="cm-item project-pink">
     <summary class="cm-header">
       <span>What Do We Look At When We Decide Someone’s Ethnicity?</span>
       <span class="cm-tag">Behavioral · Face perception</span>
@@ -35,7 +36,7 @@ Across a series of studies, I investigate this question from multiple complement
     </div>
   </details>
 
-  <details class="cm-item">
+  <details class="cm-item project-lpink">
     <summary class="cm-header">
       <span>When Humans Struggle and Machines Succeed at Face Categorization</span>
       <span class="cm-tag">Computational · Human–AI</span>
@@ -50,7 +51,7 @@ Across a series of studies, I investigate this question from multiple complement
     </div>
   </details>
 
-  <details class="cm-item">
+  <details class="cm-item project-lblue">
     <summary class="cm-header">
       <span>Attractive Strangers Look Korean: How Social Traits Bias Ethnicity Perception</span>
       <span class="cm-tag">Social cognition · Trait bias</span>
@@ -66,7 +67,7 @@ Across a series of studies, I investigate this question from multiple complement
     </div>
   </details>
 
-  <details class="cm-item">
+  <details class="cm-item project-blue">
     <summary class="cm-header">
       <span>Reading Emotions When Faces Are Partly Hidden</span>
       <span class="cm-tag">Eye-tracking · Social vision</span>
@@ -84,7 +85,7 @@ Across a series of studies, I investigate this question from multiple complement
     </div>
   </details>
 
-  <details class="cm-item">
+  <details class="cm-item project-purple">
     <summary class="cm-header">
       <span>Why Some Robots Feel Uncanny: Audio-Visual Cues in Human–Robot Interaction</span>
       <span class="cm-tag">Multisensory · HRI</span>
@@ -106,6 +107,7 @@ Across a series of studies, I investigate this question from multiple complement
 /* card layout */
 .cm-accordion details.cm-item {
   border: 1px solid #e3e3e3;
+  border-left-width: 6px;
   border-radius: 12px;
   margin: 14px 0;
   overflow: hidden;
@@ -165,33 +167,15 @@ Across a series of studies, I investigate this question from multiple complement
 .cm-links a { font-weight: 600; }
 
 /* ===== Project color themes ===== */
-.project-pink   { border-left: 6px solid #e87aa4; }
-.project-lpink  { border-left: 6px solid #f2a6c1; }
-.project-lblue  { border-left: 6px solid #9ecae1; }
-.project-blue   { border-left: 6px solid #6baed6; }
-.project-purple { border-left: 6px solid #b39ddb; }
+.project-pink   { border-left-color: #e87aa4 !important; }
+.project-lpink  { border-left-color: #f2a6c1 !important; }
+.project-lblue  { border-left-color: #9ecae1 !important; }
+.project-blue   { border-left-color: #6baed6 !important; }
+.project-purple { border-left-color: #b39ddb !important; }
 
-.project-pink[open]   summary { background: #fdeaf1; }
-.project-lpink[open]  summary { background: #fff0f6; }
-.project-lblue[open]  summary { background: #eef6fb; }
-.project-blue[open]   summary { background: #e8f2fa; }
-.project-purple[open] summary { background: #f3eefc; }
+.project-pink[open]   summary { background: #fdeaf1 !important; }
+.project-lpink[open]  summary { background: #fff0f6 !important; }
+.project-lblue[open]  summary { background: #eef6fb !important; }
+.project-blue[open]   summary { background: #e8f2fa !important; }
+.project-purple[open] summary { background: #f3eefc !important; }
 </style>
-
-<script>
-document.addEventListener("DOMContentLoaded", () => {
-  const projectColors = [
-    "project-pink",
-    "project-lpink",
-    "project-lblue",
-    "project-blue",
-    "project-purple"
-  ];
-
-  document
-    .querySelectorAll(".cm-accordion details.cm-item")
-    .forEach((project, index) => {
-      project.classList.add(projectColors[index % projectColors.length]);
-    });
-});
-</script>
