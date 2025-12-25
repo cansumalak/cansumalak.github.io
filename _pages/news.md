@@ -6,6 +6,25 @@ author_profile: true
 redirect_from:
   - /service
 ---
+* 2025  
+
+  I am happy to share that my first first-author journal article, *Pupillary responses to masked and gaze-averted faces*, has been published in *Frontiers in Psychology*.  
+
+  I presented our work *Humans versus machines: Distinguishing Korean, Chinese, and Japanese faces via internal and external features* at the Vision Sciences Society (VSS) 2025.  
+
+  I presented our study on the importance of external facial features in fine-grained ethnicity categorization at the Korean Cognitive and Biological Psychology Society Conference 2025. Believe it or not, in Korean! e  
+
+  I obtained TOPIK Level 6, the highest level of Korean language proficiency.  
+
+  I graduated with a Master of Science degree in Brain and Cognitive Engineering from Korea University.
+
+* 2024  
+
+  I continued my graduate research at Korea University, focusing on face perception, social cognition, and human–machine comparisons in visual processing.
+
+* 2023  
+
+  I completed the Korean Language Program in South Korea, funded by the Korean government through the Global Korea Scholarship (GKS). I graduated with TOPIK Level 5, strengthening my academic and everyday Korean skills during my studies.
 
 * 2022 
 
