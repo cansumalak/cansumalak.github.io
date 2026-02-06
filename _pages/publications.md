@@ -9,7 +9,7 @@ author_profile: true
 **Malak, C.**, Wallraven, C. (submitted, preprint available). The importance of external features for identifying ethnicity: Testing Korean, Japanese, and Chinese faces in a Korean cultural background. [https://doi.org/10.31234/osf.io/gxky7](https://doi.org/10.31234/osf.io/gxky7)
 
 ## Pre-print Available
-**Malak, C.**, Coskun, I., Gungor, Y., Ozilgen, S., & Yildirim, F. (preprint available). Cross-sensory Effects on Taste Perception using Extended Reality. [Retrieved from osf.io/preprints/psyarxiv/6ha5e_v1](https://doi.org/10.31234/osf.io/6ha5e_v1)
+**Malak, C.**, Coskun, I., Gungor, Y., Ozilgen, S., & Yildirim, F. (preprint available). Cross-sensory Effects on Taste Perception using Extended Reality. [https://doi.org/10.31234/osf.io/6ha5e_v1](https://doi.org/10.31234/osf.io/6ha5e_v1)
 
 **Malak, C.**, Wallraven, C. (preprint available). Attractive Strangers Look Korean: In-group Biases in How Koreans Evaluate and Categorize Korean, Japanese, and Chinese Faces. [https://doi.org/10.31234/osf.io/pq7ny_v1](https://doi.org/10.31234/osf.io/pq7ny_v1)
 
