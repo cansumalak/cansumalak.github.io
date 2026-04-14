@@ -40,7 +40,7 @@ Across a series of studies, I investigate this question from multiple complement
   <details class="cm-item project-lpink">
     <summary class="cm-header">
       <span>Humans versus machines: Distinguishing Korean, Chinese, and Japanese faces via internal and external features</span>
-      <span class="cm-tag"> 
+      <span class="cm-tag"> · Face</span>
     </summary>
     <div class="cm-body">
       <p>
