@@ -5,13 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## Overview
 
-Currently, I am working under the guidance of [Professor Christian Wallraven](https://scholar.google.com/citations?hl=tr&user=VJuuzLwAAAAJ&view_op=list_works&sortby=pubdate) in the [Cognitive Systems Lab](https://cogsyslab.notion.site/) at Korea University. My research centers on fine-grained ethnicity recognition—specifically, how Korean observers distinguish between Korean, Chinese, and Japanese faces, a task that is often assumed to be intuitive but is perceptually challenging in practice.
-
-Across a series of studies, I investigate this question from multiple complementary angles: how observers rely on different facial cues (internal features, external features, or their combination), how social trait impressions such as attractiveness and trustworthiness bias categorization decisions, and how human performance compares to that of machine learning models trained on the same task. Together, these projects aim to characterize the perceptual and social factors shaping fine-grained face categorization, and to clarify where human and artificial systems converge or diverge in solving this problem.
-
----
 
 ## Projects
 
