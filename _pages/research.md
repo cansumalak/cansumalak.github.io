@@ -13,8 +13,6 @@ Across a series of studies, I investigate this question from multiple complement
 
 ---
 
-
-
 ## Projects
 
 <div class="cm-accordion">
@@ -22,7 +20,6 @@ Across a series of studies, I investigate this question from multiple complement
   <details class="cm-item project-pink">
     <summary class="cm-header">
       <span>What Do We Look At When We Decide Someone’s Ethnicity?</span>
-      <span class="cm-tag">Behavioral · Face </span>
     </summary>
     <div class="cm-body">
       <p>
@@ -40,7 +37,6 @@ Across a series of studies, I investigate this question from multiple complement
   <details class="cm-item project-lpink">
     <summary class="cm-header">
       <span>Humans versus machines: Distinguishing Korean, Chinese, and Japanese faces via internal and external features</span>
-      <span class="cm-tag"> · Face</span>
     </summary>
     <div class="cm-body">
       <p>
@@ -54,7 +50,6 @@ Across a series of studies, I investigate this question from multiple complement
   <details class="cm-item project-lblue">
     <summary class="cm-header">
       <span>Attractive Strangers Look Korean: How Social Traits Bias Ethnicity Perception</span>
-      <span class="cm-tag">Social cognition · Trait bias</span>
     </summary>
     <div class="cm-body">
       <p>
@@ -69,7 +64,6 @@ Across a series of studies, I investigate this question from multiple complement
   <details class="cm-item project-blue">
     <summary class="cm-header">
       <span>Reading Emotions When Faces Are Partly Hidden</span>
-      <span class="cm-tag">Eye-tracking · Social vision</span>
     </summary>
     <div class="cm-body">
       <p>
@@ -86,7 +80,6 @@ Across a series of studies, I investigate this question from multiple complement
   <details class="cm-item project-purple">
     <summary class="cm-header">
       <span>Why Some Robots Feel Uncanny: Audio-Visual Cues in Human–Robot Interaction</span>
-      <span class="cm-tag">Multisensory · HRI</span>
     </summary>
     <div class="cm-body">
       <p>
@@ -117,7 +110,7 @@ Across a series of studies, I investigate this question from multiple complement
   box-shadow: 0 6px 18px rgba(0,0,0,0.06);
 }
 
-/* HEADER — GRID (NO DOUBLE ARROW) */
+/* HEADER */
 .cm-accordion details > summary {
   list-style: none !important;
 }
@@ -134,9 +127,8 @@ Across a series of studies, I investigate this question from multiple complement
   background: #f7f7f7;
 
   display: grid;
-  grid-template-columns: 1fr auto;
+  grid-template-columns: 1fr;
   align-items: center;
-  column-gap: 12px;
 
   font-size: 1.05rem;
   font-weight: 650;
@@ -152,18 +144,6 @@ Across a series of studies, I investigate this question from multiple complement
 
 .cm-accordion details.cm-item[open] > summary.cm-header::after {
   content: "▴";
-}
-
-/* TAG */
-.cm-tag {
-  justify-self: end;
-  font-size: 0.85rem;
-  font-weight: 600;
-  padding: 6px 10px;
-  border-radius: 999px;
-  background: #ffffff;
-  border: 1px solid #e6e6e6;
-  white-space: nowrap;
 }
 
 /* BODY */
