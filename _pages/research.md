@@ -40,7 +40,7 @@ Across a series of studies, I investigate this question from multiple complement
   <details class="cm-item project-lpink">
     <summary class="cm-header">
       <span>When Humans Struggle and Machines Succeed at Face Categorization</span>
-      <span class="cm-tag">Computational · Human–AI</span>
+      <span class="cm-tag">
     </summary>
     <div class="cm-body">
       <p>
