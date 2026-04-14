@@ -37,7 +37,7 @@ author_profile: true
         A follow-up study comparing human categorization patterns with deep learning models,
         asking where humans and machines converge—and where their error profiles diverge.
       </p>
-      <p class="cm-meta"><strong>Methods:</strong> face embeddings · supervised classifiers · cross-validation</p>
+      <p class="cm-meta"><strong>Methods:</strong> </p>
     </div>
   </details>
 
