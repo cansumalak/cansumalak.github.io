@@ -22,7 +22,7 @@ Across a series of studies, I investigate this question from multiple complement
   <details class="cm-item project-pink">
     <summary class="cm-header">
       <span>What Do We Look At When We Decide Someone’s Ethnicity?</span>
-      <span class="cm-tag">Behavioral · Face perception</span>
+      <span class="cm-tag">Behavioral · Face </span>
     </summary>
     <div class="cm-body">
       <p>
@@ -39,8 +39,8 @@ Across a series of studies, I investigate this question from multiple complement
 
   <details class="cm-item project-lpink">
     <summary class="cm-header">
-      <span>When Humans Struggle and Machines Succeed at Face Categorization</span>
-      <span class="cm-tag">
+      <span>Humans versus machines: Distinguishing Korean, Chinese, and Japanese faces via internal and external features</span>
+      <span class="cm-tag"> 
     </summary>
     <div class="cm-body">
       <p>
