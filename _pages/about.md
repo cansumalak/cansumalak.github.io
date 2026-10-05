@@ -1,3 +1,13 @@
+permalink: /
+title: "About me"
+excerpt: "About me"
+author_profile: true
+redirect_from:
+
+/about/
+
+/about.html
+
 I am currently a PhD student in Psychology at Columbia University, where I work with Professor Jon Freeman in the Social Cognitive & Neural Sciences Lab.
 
 Broadly, I am interested in how we form impressions of other people — and, more importantly, why the exact same person can sometimes look completely different depending on what we already know, what we have just seen, or the social environment we happen to be in.
