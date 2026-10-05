@@ -20,7 +20,7 @@ Note: I still can’t make these distinctions myself. [Try it out and let me kno
 
 I also have a thing for tracking eyes 👀👀 Using eye-tracking, I’ve studied how mask-wearing and gaze direction influence how we perceive emotions, and how our eyes navigate faces to pick up subtle social cues. 
 
-[The importance of external features for identifying ethnicity: Testing Korean, Japanese, and Chinese faces in a Korean cultural background](https://www.researchgate.net/publication/386070146_The_importance_of_external_features_for_categorizing_ethnicity_Can_Koreans_identify_Korean_Japanese_and_Chinese_faces?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InByb2ZpbGUiLCJwcmV2aW91c1BhZ2UiOiJwdWJsaWNhdGlvbiJ9fQ)
+[The importance of external features for categorizing ethnicity: Can Koreans identify Korean, Japanese, and Chinese faces?](https://www.researchgate.net/publication/386070146_The_importance_of_external_features_for_categorizing_ethnicity_Can_Koreans_identify_Korean_Japanese_and_Chinese_faces?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InByb2ZpbGUiLCJwcmV2aW91c1BhZ2UiOiJwdWJsaWNhdGlvbiJ9fQ)
 
 [Effects of Perceived Gaze Direction and Face Mask on Emotion Recognition – An Eye-Tracking Study](https://cnvplab.com/https-cnvplab-com-projects-short-term-plasticity-in-bistable-phonetic-word-processing-visual-crowding-in-holistic-configurations/projects-effects-of-perceived-gaze-direction-and-face-mask-on-face-perception/)
 
